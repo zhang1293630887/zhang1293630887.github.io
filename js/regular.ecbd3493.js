@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["regular"],{"3bd6":function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 我是正则 ")])},a=[],u={},c=u,l=t("2877"),s=Object(l["a"])(c,r,a,!1,null,"3e77ddba",null);n["default"]=s.exports}}]);
-//# sourceMappingURL=regular.ecbd3493.js.map
